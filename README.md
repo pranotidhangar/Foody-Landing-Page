@@ -1,3 +1,4 @@
+![Food Landing Page](https://github.com/pranotidhangar/Foody-Landing-Page/assets/131478879/9d71edb4-0993-48e2-b40b-fb7ac6ed202d)
 # Food Landing Page
 
 Welcome to the Food Landing Page project! This is a simple landing page built using HTML, CSS, and JavaScript to showcase delicious food items. 
